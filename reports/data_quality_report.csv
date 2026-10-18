@@ -1,0 +1,7 @@
+column,dtype,missing_values,unique_values
+id,int64,0,3000888
+date,datetime64[us],0,1684
+store_nbr,int64,0,54
+family,str,0,33
+sales,float64,0,379610
+onpromotion,int64,0,362
